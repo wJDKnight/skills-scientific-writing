@@ -1,11 +1,11 @@
 # Scientific Writing Skill
-The repository is packaged as a Claude/OpenSkills skill so you can drop it into your workflow without setup friction.
 
-Structured guidance for drafting and revising scientific manuscripts, abstracts, cover letters, and reviewer responses. 
+Structured guidance for drafting and revising scientific manuscripts, abstracts, cover letters, and reviewer responses. The repository is packaged as a Claude/OpenSkills skill so you can drop it into your workflow without setup friction.
 
 ## Install
-- Install [OpenSkills](https://github.com/numman-ali/openskills)
-- Install with OpenSkills: `openskills install wJDKnight/skills-scientific-writing`
+- Install [OpenSkills](https://github.com/numman-ali/openskills).
+- Install this skill: `openskills install wJDKnight/skills-scientific-writing`.
+- Invoke it from your Claude environment by requesting the `scientific-writing` skill.
 
 
 ## What’s Included
@@ -16,8 +16,9 @@ Structured guidance for drafting and revising scientific manuscripts, abstracts,
 
 ## Quick Start
 1. Install the skill (see above) if you have not already.
-2. Prepare a note or a draft for your research
-3. Use agent to write a paper based on you notes or drafts. The agent will automatically use this skill.
+2. Bring your research notes or a draft.
+3. Ask your agent to use the `scientific-writing` skill to draft or revise your manuscript.
+
 
 ## Thanks
 - Thanks to the [OpenSkills](https://github.com/numman-ali/openskills) and [Superpowers](https://github.com/obra/superpowers) projects for the tooling and publishing workflow that make sharing skills easy.
