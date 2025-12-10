@@ -14,6 +14,6 @@ Structured guidance for drafting and revising scientific manuscripts, abstracts,
 3. Use the references for section patterns, revision passes, and response templates.
 
 ## Thanks
-- Thanks to the OpenSkills and Superpowers projects for the tooling and publishing workflow that make sharing skills easy.
+- Thanks to the [OpenSkills](https://github.com/numman-ali/openskills) and [Superpowers](https://github.com/obra/superpowers) projects for the tooling and publishing workflow that make sharing skills easy.
 
 
