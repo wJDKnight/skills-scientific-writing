@@ -4,6 +4,9 @@ Use these to tighten language, ensure rigor, and catch omissions.
 
 ## Clarity and Concision
 - One idea per sentence; keep most sentences ≤25 words.
+- Try to not use Parallel sentences (the "and") if unnecessary. 
+- When you want to say things, be straightforward. make it easy to understand. 
+- Smooth transition between different sentences.
 - Prefer active voice except where passive aids clarity (e.g., Methods).
 - Remove filler/hedging unless warranted ("very", "clearly", "interestingly").
 - Define abbreviations at first use; avoid unexplained jargon.
