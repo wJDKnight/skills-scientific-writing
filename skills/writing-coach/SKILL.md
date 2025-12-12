@@ -5,7 +5,12 @@ description: "Evaluate and improve scientific writing by assessing outlines, dra
 
 # Writing Coach
 
-Help users improve their scientific writing by evaluating outlines and drafts against established standards, providing actionable revision suggestions, and performing direct revisions when requested.
+Use a workflow to help users improve their scientific writing by evaluating outlines and drafts against established standards, providing actionable revision suggestions, and performing direct revisions when requested.
+
+</EXTREMELY-IMPORTANT>
+Follow the Workflow exactly
+</EXTREMELY-IMPORTANT>
+
 
 ## Workflow
 
@@ -19,11 +24,13 @@ Determine the type of content:
 - **Discussion section**: Interpretation, context, limitations, implications
 
 ### 2. Evaluate Against Criteria
+Always Stick to conciseness and style → `references/concise_writing_rules.md`
 
-Read the appropriate reference file:
-- For outlines → `references/outline_checklist.md`
-- For section drafts → `references/section_evaluation.md`
-- For conciseness and style → `references/concise_writing_rules.md`
+If user provides a outline, evaluate against  `references/outline_checklist.md`
+
+If user provides a section or a part of a section of his paper, Evaluate Against `references/section_evaluation.md`.
+
+
 
 ### 3. Provide Feedback
 
@@ -42,6 +49,7 @@ When user explicitly asks for revision:
 ## Evaluation Approach
 
 ### For Outlines
+Evaluate against  `references/outline_checklist.md`
 
 Check against Level 1 and Level 2 outline requirements:
 - Level 1: Topic, importance, hypothesis, results/visuals, major finding
@@ -50,8 +58,9 @@ Check against Level 1 and Level 2 outline requirements:
 Report missing elements and suggest how to address gaps.
 
 ### For Section Drafts
-
-Evaluate based on section-specific criteria:
+Evaluate Against `references/section_evaluation.md`.
+Check conciseness and style with `references/concise_writing_rules.md`
+In addition, evaluate based on section-specific criteria:
 - **Methods**: Explicitness, reproducibility, consistency of voice
 - **Results**: Clarity, conciseness, objectivity, logical flow
 - **Introduction**: Three-move structure (territory → niche → occupy)
@@ -91,6 +100,7 @@ Identify common problems:
 ### When Revising Files
 
 - Make changes directly to the user's file
+- Stick to `references/concise_writing_rules.md`
 - Preserve the overall structure unless restructuring is needed
 - Add comments or notes only if user requests them
 - After revision, summarize key changes made
@@ -99,5 +109,5 @@ Identify common problems:
 
 - `references/outline_checklist.md`: Criteria for evaluating outline completeness
 - `references/section_evaluation.md`: Section-specific evaluation criteria and common issues
-- `references/concise_writing_rules.md`: 10 rules for concise scientific writing with practical examples
+- `references/concise_writing_rules.md`: Rules for concise scientific writing with practical examples
 

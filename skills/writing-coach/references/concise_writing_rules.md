@@ -3,15 +3,17 @@
 Practical guidelines for writing clear, concise scientific prose. Use these rules as guidelines, not laws—they can be broken under the right circumstances.
 
 ---
+## Most important rules
+- Never use ":", ";", and "—"
+- One idea per sentence; keep most sentences ≤25 words.
+- When revising, keep all the ideas that the draft want to express. Never delete any ideas. You can rearrange ideas to make the flow smoother.
 
 ## Rule 1: Clarity and Concision
-- One idea per sentence; keep most sentences ≤25 words.
 - Be direct and straightforward; avoid the "suspense" approach—present findings early.
 - Avoid parallel "and" constructions if unnecessary; they often signal two ideas that should be separate sentences.
 - Ensure smooth transitions between sentences.
 - Prefer active voice except where passive aids clarity (e.g., Methods); do not switch voice within the same paragraph.
 
----
 
 ## Rule 2: Identify and Stick to Your Message
 
