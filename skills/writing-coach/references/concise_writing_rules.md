@@ -1,6 +1,6 @@
 # Concise Writing Rules
 
-Practical guidelines for writing clear, concise scientific prose. Use these rules as guidelines, not laws—they can be broken under the right circumstances.
+Practical guidelines for writing clear, concise scientific prose. Stick to the "most important rules". Use other rules as guidelines.
 
 ---
 ## Most important rules
@@ -166,27 +166,10 @@ You don't need complicated words to write well. They take up space, waste time, 
 | endeavor | try |
 | commence | begin / start |
 
----
-
-## Rule 10: Seek and Embrace Feedback
-
-Diagnosing issues in your own writing is difficult. Good feedback is as important as the writing itself.
-
-**For conciseness feedback:**
-- Ask reviewers to look for areas to condense
-- If working under a word limit, remind readers of the target length
-- Request they note where rephrasing or removing content would help
-
-**Three recommendations:**
-1. **Send to critical readers** - "Looks great!" messages don't improve your writing
-2. **Take feedback graciously** - People are spending their time to help you
-3. **Take feedback seriously** - Be humble; disagreements about wording are common, but don't dismiss input outright
-
-**Note:** If feedback identifies a problem, the critic is likely right that something is amiss. However, they may not be right about how to fix it—trust your intuition when you're unsure.
 
 ---
 
-## Caution: Don't Over-condense
+## Important: Don't Over-condense
 
 It's easy to condense into unclarity. By cutting too many words and losing key information, you create one problem while fixing another.
 

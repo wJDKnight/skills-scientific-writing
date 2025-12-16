@@ -101,7 +101,6 @@ Identify common problems:
 
 - Make changes directly to the user's file
 - Stick to `references/concise_writing_rules.md`
-- Preserve the overall structure unless restructuring is needed
 - Add comments or notes only if user requests them
 - After revision, summarize key changes made
 

@@ -5,7 +5,7 @@ Structured guidance for drafting and revising scientific manuscripts, abstracts,
 ## Install
 - Install [OpenSkills](https://github.com/numman-ali/openskills).
 - Install this skill: `openskills install wJDKnight/skills-scientific-writing`.
-- Invoke it from your Claude environment by requesting the `scientific-writing` skill.
+- Invoke it from your Claude environment by requesting the `writing-coach` skill.
 
 
 ## What’s Included
@@ -17,7 +17,7 @@ Structured guidance for drafting and revising scientific manuscripts, abstracts,
 ## Quick Start
 1. Install the skill (see above) if you have not already.
 2. Bring your research notes or a draft.
-3. Ask your agent to use the `scientific-writing` skill to draft or revise your manuscript.
+3. Ask your agent to use the `writing-coach` skill to draft or revise your manuscript.
 
 
 ## Thanks

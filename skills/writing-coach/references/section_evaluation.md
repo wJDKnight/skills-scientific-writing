@@ -4,6 +4,40 @@ Use these criteria to evaluate drafts of each manuscript section. These are guid
 
 ---
 
+## Title
+
+### Required Elements
+
+| Element | Present? | Notes |
+|---------|----------|-------|
+| Concise length (≈12–20 words, journal-dependent) | | |
+| States core entities (e.g., population/sample, exposure/intervention, outcome) | | |
+| Avoids jargon where possible | | |
+
+---
+
+## Abstract
+
+### Required Elements (Structured; adapt to journal headings)
+
+| Element | Present? | Notes |
+|---------|----------|-------|
+| Background (why the question matters; ~1 sentence) | | |
+| Objective (what was tested/estimated) | | |
+| Methods (design/setting, n, key measures, primary analysis) | | |
+| Results (top-line numbers; effect size with uncertainty; harms/adverse events if applicable) | | |
+| Conclusion (plain-language takeaway/implication; avoids overclaiming causality) | | |
+
+### Common Problems
+
+#### 1. Results Without Numbers
+
+**Problem:** Abstract reports directionality (“increased,” “decreased”) without effect sizes/uncertainty.
+
+**Fix:** Add the main quantitative result (effect size + CI/SD/SE; p if central to the claim).
+
+---
+
 ## Methods Section
 
 ### Required Elements
@@ -14,8 +48,10 @@ Use these criteria to evaluate drafts of each manuscript section. These are guid
 | Materials with sources | | |
 | Subject/sample description | | |
 | Study design | | |
+| Ethical approvals / consent / preregistration (if applicable) | | |
 | Analysis approach | | |
 | Software/versions (recommended but not always required) | | |
+| Reproducibility (data/code availability, protocol links, accession numbers if applicable) | | |
 
 ### Common Problems
 
@@ -72,11 +108,14 @@ If the answer is no, identify what's missing:
 | Element | Present? | Notes |
 |---------|----------|-------|
 | Logical organization by subsection | | |
+| Subsection order matches Methods/aims | | |
 | Purpose of each experiment/analysis (brief) | | |
 | Data with figures/tables | | |
+| Cohort/sample flow and key descriptives (when relevant) | | |
 | Effect sizes with uncertainty (CI/SD/SE) | Recommended | |
 | Sample sizes (n per group) | | |
 | Statistical tests used | | |
+| Interpretation largely deferred to Discussion (Results stays factual) | | |
 
 ### Common Problems
 
@@ -186,7 +225,7 @@ If the answer is no, identify what's missing:
 
 #### 3. Length Issues
 
-**Guideline:** 500–1000 words for most journals, but varies by field and journal.
+**Guideline:** ~400–1000 words for many journals, but varies substantially by field and journal.
 
 **If too long:** Cut background that doesn't directly set up the gap; remove tangential literature.
 
@@ -276,6 +315,13 @@ If the answer is no, identify what's missing:
 | Subject-verb separation | Keep subject and verb reasonably close for clarity |
 | Tense consistency | Past for Methods/Results; present for general truths and established facts |
 | Abbreviations | Define at first use; avoid in titles and abstracts if possible |
+
+### Section-to-Section Alignment
+
+| Issue | Guideline |
+|-------|-----------|
+| Order consistency | Principal findings in Introduction, Methods, Results, and Discussion follow the same aim/subsection order so readers can map claims to procedures and evidence |
+| Claims vs. evidence | Major claims in Discussion trace back to results presented (avoid introducing unsupported “new” conclusions) |
 
 ### Tense Guidelines
 
