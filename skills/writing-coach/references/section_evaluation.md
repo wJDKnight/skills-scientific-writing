@@ -39,7 +39,7 @@ Use these criteria to evaluate drafts of each manuscript section. These are guid
 ---
 
 ## Methods Section
-
+Methods Accuracy: Provide enough detail (e.g., specific temperatures, centrifuge speeds, or sources) to allow other researchers to replicate the work exactly.
 ### Required Elements
 
 | Element | Present? | Notes |
@@ -191,7 +191,9 @@ If the answer is no, identify what's missing:
 ---
 
 ## Introduction Section
+Introduction (The CARS Model): Establish a research territory by showing the area is important, find a "niche" or gap in current research, and then occupy that niche by stating your specific aims.
 
+The "Chekhov’s Gun" Principle: The Introduction and Methods must contain all background information necessary to understand the Results and Discussion; delete any information that does not serve the eventual "firing" of your research findings.
 ### Three-Move Structure Check
 
 | Move | Description | Present? |

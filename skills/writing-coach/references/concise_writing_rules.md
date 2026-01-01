@@ -13,6 +13,8 @@ Practical guidelines for writing clear, concise scientific prose. Stick to the "
 - Avoid parallel "and" constructions if unnecessary; they often signal two ideas that should be separate sentences.
 - Ensure smooth transitions between sentences.
 - Prefer active voice except where passive aids clarity (e.g., Methods); do not switch voice within the same paragraph.
+- Use Precise Verbs: Avoid "buzzwords" with broad meanings. Use specific verbs like increase, improve, or speed instead of "enhance". 
+- The "This + Summary Noun" Technique: When using "this" or "these" to refer to a previous idea, always follow it with a summary noun (e.g., "this finding," "this process," "this discrepancy") to prevent ambiguity. 
 
 
 ## Rule 2: Identify and Stick to Your Message
@@ -75,6 +77,7 @@ Redundancy undermines conciseness. Once you state something, repeat it only to a
 ## Rule 6: Avoid Unnecessary Lead-ins
 
 Unnecessary lead-ins can double sentence length with no added value.
+Remove Empty Lead-ins: Avoid starting sentences with phrases like "It is well known that" or "It is interesting to note that"; simply state the fact. 
 
 ### Common Types to Avoid
 
@@ -113,6 +116,7 @@ First-person active voice is generally tighter and more engaging.
 ---
 
 ## Rule 8: Remove Unnecessary Words
+Nominalization Check: Change abstract nouns paired with weak verbs into strong, direct verbs (e.g., change "provide an argument" to "argue" or "is a disruption of" to "disrupts").
 
 Two types of filler sneak into sentences:
 1. Extra words that can be removed with no effect
